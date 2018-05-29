@@ -46,6 +46,15 @@ table.ferret {
 .gray-background{
   background-color: gray;
 }
+
+.lightBlue-background {
+  background-color: lightblue;
+}
+
+.crimson-background {
+  background-color: crimson;
+}
+
 /*.typewriter {
   text-align: center;
 }*/
