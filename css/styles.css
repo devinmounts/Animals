@@ -37,6 +37,15 @@ table.ferret {
   filter: grayscale(100%);
 }
 
+.sidebar{
+  float: right;
+  border: 10px solid black;
+  background-color: yellow;
+}
+
+.gray-background{
+  background-color: gray;
+}
 /*.typewriter {
   text-align: center;
 }*/
